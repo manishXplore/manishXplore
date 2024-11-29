@@ -4,3 +4,5 @@
 #### Skilled in Python, SQL, PowerBI, LLM's --- onwards and upwards to add more skillsets.↗
 
 #### Open to connect and collaborate.🤝
+
+![](https://komarev.com/ghpvc/?username=manishXplore)
